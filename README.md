@@ -1,8 +1,8 @@
-Getting you feet wet with Idris
-===============================
+Getting your feet wet with Idris
+================================
 
 Let's start with what this article is not. This is not a tutorial on Idris the
-Language. Please see [brady13](the official tutorial) for that.
+Language. Please see [the official tutorial][brady13] for that.
 
 This is more of a personal travel report as I get to know Idris and try to
 apply it into small practical problems; which implies couple things. Firstly,
@@ -48,7 +48,7 @@ available for it yet. Or even a decent tutorial. So, read the source, Luke!
 
 Editor support is not really required but is always nice. In case you are
 using Emacs and would like to have some support from your editor there is an
-[startling](Idris mode) available. To install it:
+[Idris mode for Emacs][startling] available. To install it:
 
     $ cd your/3rd-party/stuff
     $ git clone https://github.com/startling/idris-mode.git
